@@ -5,6 +5,8 @@ void main()
   float arr[100];
 
    printf("Enter n: ");
+printf("How are your?: ");
+
  scanf("%d",&n);
 
 
