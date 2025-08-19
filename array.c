@@ -4,7 +4,7 @@ void main()
      int i, n;
   float arr[100];
 
-   printf("Enter total number of elements");
+   printf("Enter n: ");
  scanf("%d",&n);
 
 
